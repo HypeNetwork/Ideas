@@ -1,0 +1,5 @@
+Idea: “Team recruits”
+I had an idea for a PvP minigame where there are four teams and an arena. It would work like this: when a player gets killed 
+he rejoins the team he was killed from. for example: red team member killed by yellow team member. He would then join yellow. 
+the game would continue until only one team remained alive. there would be a waiting lobby and kits players could use. 
+People would get a kit by selecting them from a sign.
